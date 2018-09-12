@@ -5,6 +5,11 @@ import PropTypes from 'prop-types';
 import React from 'react';
 
 import './index.css';
+import fontawesome from '@fortawesome/fontawesome'
+import solid from '@fortawesome/fontawesome-free-solid'
+import 'bulma/css/bulma.css'
+
+fontawesome.library.add(solid)
 
 const Header = () => (
   <div className="top-header">
