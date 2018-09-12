@@ -4,6 +4,8 @@ import React from 'react';
 import renderHTML from 'react-render-html';
 import VerticalNavigationList from '../components/VerticalNavigationList';
 
+import { Content, Box } from 'bloomer';
+
 export default ({
   data: { allMarkdownRemark, markdownRemark, site, siteSearchIndex },
 }) => {
@@ -21,7 +23,10 @@ export default ({
           searchData={siteSearchIndex}
         />
       </div>
-      <div className={'detail-pane'}>{renderHTML(markdownRemark.html)}</div>
+      <br/>
+      <Box>
+        <Content>{renderHTML(markdownRemark.html)}</Content>
+      </Box>
     </div>
   );
 };

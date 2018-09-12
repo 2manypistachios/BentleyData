@@ -3,6 +3,8 @@ import qs from 'qs';
 import React, { Component } from 'react';
 import { Index } from 'elasticlunr';
 
+import { Field, Input } from 'bloomer';
+
 const getSearch = ({ location }) => {
   if (!location) return '';
   if (!location.search) return '';
@@ -54,8 +56,8 @@ export default class Search extends Component {
     const { query, hits } = this.state;
 
     return (
-      <div role="search">
-        <input
+      <Field role="search">
+        <Input
           onChange={this.updateQuery}
           placeholder="search"
           style={{
@@ -64,7 +66,7 @@ export default class Search extends Component {
           type="search"
           value={query}
         />
-      </div>
+      </Field>
     );
   }
 }

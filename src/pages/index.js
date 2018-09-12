@@ -3,21 +3,21 @@ import Helmet from 'react-helmet';
 import React from 'react';
 import VerticalNavigationList from '../components/VerticalNavigationList';
 
+import { Title, Subtitle } from 'bloomer';
+
 const App = ({ data: { allMarkdownRemark, site, siteSearchIndex } }) => (
   <div className={'master-detail-container'}>
     <Helmet title={`Home Hi - ${site.siteMetadata.title}`} />
+    
+    <Title>Bentley Job Data</Title>
+    <Subtitle>Search with your Interest Code, a job title, or by company.</Subtitle>
+    
     <div className={'master-pane'}>
       <VerticalNavigationList
         currentSlug={'/'}
         edges={allMarkdownRemark.edges}
         searchData={siteSearchIndex}
       />
-    </div>
-    <div className={'detail-pane'}>
-      <h1>Demo Site</h1>
-      <p>
-        Begin by searching for either a job title, by interest code, or by company.
-      </p>
     </div>
   </div>
 );

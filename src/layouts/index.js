@@ -4,32 +4,32 @@ import Link from 'gatsby-link';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import './index.css';
+import './index.scss';
 import fontawesome from '@fortawesome/fontawesome'
 import solid from '@fortawesome/fontawesome-free-solid'
-import 'bulma/css/bulma.css'
+import { Box, Container, Navbar, NavbarItem } from 'bloomer';
 
 fontawesome.library.add(solid)
 
 const Header = () => (
-  <div className="top-header">
-    <div className="header-text">
-      <h1>
-        <Link to="/">Home</Link>
-      </h1>
-    </div>
-  </div>
+  <Navbar>
+    <NavbarItem href='/'>
+      Home
+    </NavbarItem>
+  </Navbar>
 );
 
 const TemplateWrapper = ({ children, data: { site } }) => (
-  <div>
+  <Container>
     <Helmet
       title={site.siteMetadata.title}
       meta={[{ name: 'description', content: site.siteMetadata.description }]}
     />
     <Header />
-    <div>{children()}</div>
-  </div>
+    <Box>
+     {children()}
+    </Box>
+  </Container>
 );
 
 TemplateWrapper.propTypes = {
