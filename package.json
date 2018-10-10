@@ -34,6 +34,7 @@
     "bulma": "^0.7.1",
     "elasticlunr": "^0.9.5",
     "gatsby-plugin-sass": "1.0.19",
+    "gatsby-transformer-json": "^2.1.4",
     "graphql": "0.11.7",
     "lodash.debounce": "^4.0.8",
     "prop-types": "^15.6.0",
@@ -43,7 +44,6 @@
     "react-render-html": "^0.5.2"
   },
   "devDependencies": {
-     //"cypress": "^1.4.1",
     "gatsby": "^1.9.102",
     "gatsby-link": "^1.6.22",
     "gatsby-plugin-react-helmet": "^1.0.8",
