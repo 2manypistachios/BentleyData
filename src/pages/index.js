@@ -10,7 +10,7 @@ const App = ({ data: { allMarkdownRemark, site, siteSearchIndex } }) => (
     <Helmet title={`Home Hi - ${site.siteMetadata.title}`} />
     
     <Title>Bentley Job Data</Title>
-    <Subtitle>Search with your Interest Code, a job title, or by company.</Subtitle>
+    <Subtitle>Search with your Interest Code</Subtitle>
     
     <div className={'master-pane'}>
       <VerticalNavigationList
