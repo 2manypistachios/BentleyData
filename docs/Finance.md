@@ -1,19 +1,33 @@
 ---
-  - 
-    - "CONVENTIONAL"
-    - "Conventional occupations frequently involve following set procedures and routines. These occupations can include working with data and details more than with ideas."
-  - 
-    - "ENTERPRISING"
-    - "Enterprising occupations frequently involve starting up and carrying out projects. These occupations can involve leading and managing people and making many decisions, and sometimes require risk taking."
-  - 
-    - "INVESTIGATIVE"
-    - "Investigative occupations frequently involve working with ideas, and require an extensive amount of thinking. These occupations can involve research in searching for facts and figuring out problems mentally."
-  - 
-    - "SOCIAL"
-    - "Social occupations frequently involve working with, communicating with, and teaching people. These occupations often involve helping or providing service to others."
-  - 
-    - "REALISTIC"
-    - "Realistic occupations frequently involve work that is practical, mechanical and hands-on. This occupation may require working outside, and does not involve a lot of paperwork or working closely with others."
+  title: "Finance"
+  keywords: 
+    - "ICE"
+    - "ECS"
+    - "CIE"
+    - "CIE"
+    - "CEI"
+    - "EC"
+    - "EC"
+    - "ICR"
+    - "CIE"
+    - "ICE"
+    - "CIE"
+    - "ICE"
+    - "CIE"
+    - "CIE"
+    - "EC"
+    - "EC"
+    - "CE"
+    - "EC"
+    - "CEI"
+    - "CE"
+    - "CIE"
+    - "EC"
+    - "ESC"
+    - "IEC"
+    - "CIE"
+    - "CEI"
+    - "IC"
 ---
 # Finance
 
