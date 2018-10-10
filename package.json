@@ -34,7 +34,7 @@
     "bulma": "^0.7.1",
     "elasticlunr": "^0.9.5",
     "gatsby-plugin-sass": "1.0.19",
-    "gatsby-transformer-json": "^2.1.4",
+    "gatsby-transformer-json": "^2.1.1-rc.6",
     "graphql": "0.11.7",
     "lodash.debounce": "^4.0.8",
     "prop-types": "^15.6.0",
