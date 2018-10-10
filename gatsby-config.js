@@ -21,13 +21,6 @@ module.exports = {
         },
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/src/data`,
-        name: `dataJson`,
-      },
-    },
     'gatsby-plugin-sass',
     `gatsby-plugin-react-helmet`,
     {
