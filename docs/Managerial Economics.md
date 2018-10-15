@@ -150,11 +150,11 @@
 
 
  - American Economic Association
- - www.aeaweb.org
+    www.aeaweb.org
  - National Association for Business Economics
- - www.nae.com
+    www.nae.com
  - National Economic Association
- - www.neaecon.org
+    www.neaecon.org
 
 ## Curriculum
 

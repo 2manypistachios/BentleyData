@@ -158,11 +158,11 @@
 
 
  - American Institute for Economic Research
- -  www.aier.org
+    www.aier.org
  - Association for Financial Professionals
- - www.afponline.org
+    www.afponline.org
  - The American Finance Association
- - www.afajof.org
+    www.afajof.org
 
 ## Curriculum
 

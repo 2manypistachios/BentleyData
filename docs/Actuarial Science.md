@@ -155,11 +155,11 @@
 
 
  - Casualty Actuary Society
- - www.casact.org
+    www.casact.org
  - Society of Actuaries
- - www.soa.org
+    www.soa.org
  - The American Mathematical Society
- - www.ams.org
+    www.ams.org
 
 ## Curriculum
 

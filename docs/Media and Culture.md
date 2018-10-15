@@ -160,23 +160,23 @@
 
 
  - Ad Exchanger
- - www.AdExchanger.com
+    www.AdExchanger.com
  - SmartBrief
- - www.smartbrief.com
+    www.smartbrief.com
  - Media Post
- - www.mediapost.com
+    www.mediapost.com
  - Advertising Age
- - www.adage.com
+    www.adage.com
  - Adweek
- - www.adweek.com
+    www.adweek.com
  - mediabistro
- - www.mediabistro.com
+    www.mediabistro.com
  - Entertainment Industry Trades:
- - Variety
+    Variety
  - www.variety.com
- - Thewrap
+    Thewrap
  - www.thewrap.com
- - ProductionHUB
+    ProductionHUB
  - www.productionhub.com
 
 ## Curriculum

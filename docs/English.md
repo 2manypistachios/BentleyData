@@ -151,11 +151,11 @@
 
 
  - Publishers Weekly
- - www.publishersweekly.com
+    www.publishersweekly.com
  - The Write Jobs
- - www.writejobs.com
+    www.writejobs.com
  - Modern Language Association
- - www.mla.org
+    www.mla.org
 
 ## Curriculum
 

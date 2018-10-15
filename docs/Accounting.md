@@ -142,9 +142,9 @@
 
 
  - Massachusetts Society of CPAs
- - www.mscpaonline.org
+    www.mscpaonline.org
  - Each state has a comparable Society of CPAs
- - The Institute of Internal Auditors
+    The Institute of Internal Auditors
  - www.theiia.org
 
 ## Curriculum

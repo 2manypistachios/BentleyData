@@ -132,11 +132,11 @@
 
 
  - American Mathematical Society
- - www.ams.org
+    www.ams.org
  - American Statistical Association
- - www.amstag.org
+    www.amstag.org
  - Mathematical Association of America
- - www.maa.org
+    www.maa.org
 
 ## Curriculum
 

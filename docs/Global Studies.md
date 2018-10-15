@@ -135,11 +135,11 @@
 
 
  - National Model United Nations
- - www.nmun.org
+    www.nmun.org
  - International Chamber of Commerce
- - www.iccwbo.org
+    www.iccwbo.org
  - Association of Women in International Trade
- - www.wiit.org
+    www.wiit.org
 
 ## Curriculum
 

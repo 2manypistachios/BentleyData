@@ -132,11 +132,11 @@
 
 
  - Coalition for Health Communication
- - www.cohealthcom.org
+    www.cohealthcom.org
  - Massachusetts Biotechnology Council
- - www.massbio.org
+    www.massbio.org
  - Massachusetts Life Sciences Center
- - www.masslifesciences.com
+    www.masslifesciences.com
 
 ## Curriculum
 

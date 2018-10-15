@@ -135,19 +135,19 @@
 
 
  - American Society for Public Administration
- - www.aspanet.org
+    www.aspanet.org
  - Association of Public Policy Analysis and Management
- - www.appam.org
+    www.appam.org
  - Foreign Policy Association
- - www.fpa.org
+    www.fpa.org
  - National Academy of Public Administration
- - www.napawash.org
+    www.napawash.org
  - National Association of Schools of Public Affairs and Administration
- - www.naspaa.org
+    www.naspaa.org
  - Policy Studies Organization
- - www.ipsonet.org
+    www.ipsonet.org
  - The Washington Center
- - www.twc.edu
+    www.twc.edu
 
 ## Curriculum
 

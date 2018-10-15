@@ -120,11 +120,11 @@
 
 
  - Association for Information Systems
- - www.aisnet.org
+    www.aisnet.org
  - Association for  Information Technology Professionals
- - www.aitp.org
+    www.aitp.org
  - Boston Chapter, Association for Information Technology Professionals
- - www.altp.org/group/4
+    www.altp.org/group/4
 
 ## Curriculum
 

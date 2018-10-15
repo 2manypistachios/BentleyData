@@ -150,11 +150,11 @@
 
 
  - American Management Association
- - http://www.amanet.org/
+    http://www.amanet.org/
  - Entrepreneurs Organization
- - https://www.eonetwork.org/
+    https://www.eonetwork.org/
  - National Human Resources Association
- - http://www.humanresources.org/website/c/
+    http://www.humanresources.org/website/c/
 
 ## Curriculum
 

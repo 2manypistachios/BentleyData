@@ -144,11 +144,11 @@
 
 
  - National Association of Sales Professionals
- - http://www.nasp.com/
+    http://www.nasp.com/
  - Sales and Marketing Professional Association
- - http://www.smei.org/
+    http://www.smei.org/
  - eMarketing Association
- - http://www.emarketingassociation.com/
+    http://www.emarketingassociation.com/
 
 ## Curriculum
 

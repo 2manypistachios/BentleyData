@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import NavigationItem from './NavigationItem';
 import Search from '../components/Search';
 
+import { Columns, Column } from "bloomer";
+
 class VerticalNavigationList extends Component {
   constructor(...rest) {
     super(...rest);

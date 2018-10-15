@@ -4,7 +4,7 @@ import React from 'react';
 import renderHTML from 'react-render-html';
 import VerticalNavigationList from '../components/VerticalNavigationList';
 
-import { Content, Box } from 'bloomer';
+import { Columns, Column, Content, Box } from 'bloomer';
 
 export default ({
   data: { allMarkdownRemark, markdownRemark, site, siteSearchIndex },
@@ -16,17 +16,20 @@ export default ({
           site.siteMetadata.title
         }`}
       />
-      <div className={'master-pane'}>
-        <VerticalNavigationList
-          currentSlug={markdownRemark.fields.slug}
-          edges={allMarkdownRemark.edges}
-          searchData={siteSearchIndex}
-        />
-      </div>
-      <br/>
-      <Box>
-        <Content>{renderHTML(markdownRemark.html)}</Content>
-      </Box>
+      <Columns isCentered>
+        <Column isSize="1/3">
+          <div className={'master-pane'}>
+            <VerticalNavigationList
+              currentSlug={markdownRemark.fields.slug}
+              edges={allMarkdownRemark.edges}
+              searchData={siteSearchIndex}
+            />
+          </div>
+        </Column>
+        <Column isSize="2/3">
+          <Content>{renderHTML(markdownRemark.html)}</Content>
+        </Column>
+      </Columns>
     </div>
   );
 };

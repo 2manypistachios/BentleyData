@@ -136,11 +136,11 @@
 
 
  - Massachusetts Society of CPAs
- - www.mscpaonline.org
+    www.mscpaonline.org
  - Association for Financial Professionals
- - www.afponline.org
+    www.afponline.org
  - American Association of Finance and Accounting
- - www.aafa.com
+    www.aafa.com
 
 ## Curriculum
 

@@ -135,11 +135,11 @@
 
 
  - Association for General and Liberal Studies
- - www.agls.org
+    www.agls.org
  - American Sociological Association
- - www.asanet.org
+    www.asanet.org
  - Liberal Arts Career Network
- - www.liberalartscareers.org
+    www.liberalartscareers.org
 
 ## Curriculum
 

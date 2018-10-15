@@ -158,11 +158,11 @@
 
 
  - American Bankers Association
- -  www.aba.com
+    www.aba.com
  - Association for Financial Professionals
- - www.afponline.org
+    www.afponline.org
  - The American Finance Association
- - www.afajof.org
+    www.afajof.org
 
 ## Curriculum
 

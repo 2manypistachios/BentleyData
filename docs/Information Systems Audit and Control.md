@@ -114,9 +114,9 @@
 
 
  - Massachusetts Society of CPAs
- - www.mscpaonline.org
+    www.mscpaonline.org
  - Information Systems Audit and Control Association
- - www.isaca.org
+    www.isaca.org
 
 ## Curriculum
 

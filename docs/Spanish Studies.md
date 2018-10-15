@@ -129,11 +129,11 @@
 
 
  - American Translators Association
- - www.atanet.org
+    www.atanet.org
  - American Association of Language Specialists
- - www.taals.net
+    www.taals.net
  - New England Translators Association
- - www.netaweb.org
+    www.netaweb.org
 
 ## Curriculum
 

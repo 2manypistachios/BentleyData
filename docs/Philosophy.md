@@ -151,11 +151,11 @@
 
 
  - American Philosophical Association
- - www.apaonline.org
+    www.apaonline.org
  - Philosophical Research Society
- - www.prs.org
+    www.prs.org
  - American Philosophical Society
- - www.amphilsoc.org
+    www.amphilsoc.org
 
 ## Curriculum
 
