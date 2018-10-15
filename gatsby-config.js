@@ -2,8 +2,8 @@ const path = require(`path`);
 
 module.exports = {
   siteMetadata: {
-    title: `Gastby Plugin Elastic Lunr Search Demo`,
-    description: `demo site for gastby-plugin-elasticlunr-search`,
+    title: `Bentley Job Data`,
+    description: `A website to navigate Bentley Students' career options for CDI 201!`,
   },
   plugins: [
     {

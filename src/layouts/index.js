@@ -25,7 +25,6 @@ const TemplateWrapper = ({ children, data: { site } }) => (
       title={site.siteMetadata.title}
       meta={[{ name: 'description', content: site.siteMetadata.description }]}
     />
-    <Header />
     <Box>
      {children()}
     </Box>

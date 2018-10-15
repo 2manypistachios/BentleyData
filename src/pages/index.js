@@ -8,7 +8,6 @@ import logo from "./ceo-blue.jpg";
 
 const App = ({ data: { allMarkdownRemark, site, siteSearchIndex } }) => (
   <div className={'master-detail-container'}>
-    <Helmet title={`Home Hi - ${site.siteMetadata.title}`} />
     <Columns isVCentered>
       <Column>
         <Image isRatio="3:2"src={logo} />
