@@ -14,7 +14,7 @@ const App = ({ data: { allMarkdownRemark, site, siteSearchIndex } }) => (
       </Column>
       <Column>
         <Title>Search with your Interest Code</Title>
-        <Subtitle>Note that this not list every potential option! There are many more possibilities than Bentley can measure!</Subtitle>
+        <Subtitle>Note that this does not list every potential option. There are many more possibilities than Bentley can measure!</Subtitle>
       </Column>
     </Columns>
     <div className={'master-pane'}>
