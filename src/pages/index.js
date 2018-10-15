@@ -14,7 +14,8 @@ const App = ({ data: { allMarkdownRemark, site, siteSearchIndex } }) => (
         <Image isRatio="3:2"src={logo} />
       </Column>
       <Column>
-        <Subtitle isSize={2}>Search with your Interest Code</Subtitle>
+        <Title>Search with your Interest Code</Title>
+        <Subtitle>Note that this not list every potential option! There are many more possibilities than Bentley can measure!</Subtitle>
       </Column>
     </Columns>
     <div className={'master-pane'}>
