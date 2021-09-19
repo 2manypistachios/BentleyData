@@ -1,11 +1,3 @@
-# Demo Site
+# Website for Bentley University Career Development Class.
 
-Demo site for `gatsby-plugin-elasticlunr-search`
-
-# Contributing
-
-See [`CONTRIBUTING.md`](./CONTRIBUTING.md)
-
-# Other Resources
-
-* [`LICENSE`](./LICENSE.md)
+Using Elastic Clunr Search.
